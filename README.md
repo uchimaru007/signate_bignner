@@ -1,0 +1,2 @@
+# signate_bignner
+Signateのビギナーコンペ
